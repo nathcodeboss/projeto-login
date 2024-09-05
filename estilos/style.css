@@ -6,6 +6,7 @@ PALETA DE CORES
 Verde: #49a09d
 Lilás: #5f2c82
 */
+@media screen and (min-width: 600px) and (max-width: 768px) {
 * {
 font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 margin:0px;
@@ -121,4 +122,5 @@ form > a.botao:hover {
 form > a.botao > i {
 	font-size:0.8em;
 	padding:4px;
+}
 }
